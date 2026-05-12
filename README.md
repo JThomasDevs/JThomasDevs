@@ -12,7 +12,7 @@ I'm a recent graduate from **Southern New Hampshire University** (Cum Laude, Aug
 - **Data Processing & Storage** – Designing efficient data pipelines and systems
 - **API Integration** – RESTful APIs, webhooks, third-party integrations
 - **Security Infrastructure** – Secure coding practices and system hardening
-- **Languages:** Rust • JavaScript • TypeScript • Java
+- **Languages:** Rust • JavaScript • TypeScript • Java • Python • C++ • SQL
 - **Experience:** Full-stack development, real-world project delivery
 
 ---
