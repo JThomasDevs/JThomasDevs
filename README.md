@@ -28,7 +28,7 @@ A Java-based utility designed to streamline farming tasks. Co-contributed to thi
 A high-performance QR code generator built in Rust. Demonstrates systems programming expertise and CLI tool development.
 - **Tech:** Rust | **Features:** Fast generation, clean API
 
-### 🎮 [Twitch Chat OOC Game]https://outofcontext.chat)
+### 🎮 [Twitch Chat OOC Game](https://outofcontext.chat)
 An interactive game leveraging Twitch chat integration. Built with modern web technologies for real-time user engagement.
 - **Tech:** Svelte | **Type:** Full-stack interactive application
 
