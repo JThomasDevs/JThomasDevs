@@ -61,4 +61,4 @@ I believe in writing clean, maintainable code and solving problems with intentio
 
 ---
 
-**Let's build something great together!** 🚀
+Let's build something that lasts.
